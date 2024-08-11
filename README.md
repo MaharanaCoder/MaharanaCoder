@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/MaharanaCoder/Maharana-Coder/blob/main/Purple%20and%20Black%20Modern%20Neon%20Technology%20Landscape%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harihar Maharana</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
