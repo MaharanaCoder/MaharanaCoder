@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Springboot, Boostrap, ReactNative**
 
-- 💬 Ask me about **React,Html,css,js,springboot,Servelete,boostrap**
+- 💬 Ask me about **Java, React,Html,css,js,springboot,Servelete,boostrap**
 
 - 📫 How to reach me **maharanaharihar90@gmail.com**
 
