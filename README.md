@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharanacoder&label=Profile%20views&color=0e75b6&style=flat" alt="maharanacoder" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, Springboot, Boostrap, ReactNative**
-
 - 💬 Ask me about **Java, React,Html,css,js,springboot,Servelete,boostrap**
 
 - 📫 How to reach me **maharanaharihar90@gmail.com**
